@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+}
+
+.cutie {
+    background-color: white;
+    border: 1px solid black;
+    width: 5px solid black;
+    padding: 50px;
+    margin: 10px;
+    color: black;
+    box-shadow: 10px 10px grey;
+    border-radius: 25px;
+}
+
+.h1 {
+
+    color: black;
+    font-size: 25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
